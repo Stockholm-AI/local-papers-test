@@ -5,7 +5,7 @@
 Explain the concept paragraph here
 
 <a href="mailto:local-papers@stockholm.ai">
-    <img src="https://github.com/stockholm-ai/local-papers-test/raw/master/contact-us.png" />
+    <img src="https://github.com/stockholm-ai/local-papers-test/raw/master/contact_us.png" />
 </a>
 
 
