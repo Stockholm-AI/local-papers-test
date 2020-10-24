@@ -2,6 +2,13 @@
 
 # Local AI Papers - Stockholm
 
+Explain the concept paragraph here
+
+<a href="mailto:local-papers@stockholm.ai">
+    <img src="https://github.com/stockholm-ai/local-papers-test/raw/master/contact-us.png" />
+</a>
+
+
 ## Attention
 
 ### Multi-Head Attention
